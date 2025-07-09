@@ -23,3 +23,15 @@ task-manager-app/
 ├── frontend/       # React + TypeScript client
 ├── backend/        # Spring Boot API server
 ├── diagrams/       # Architecture diagrams (optional)
+
+
+## 📦 Getting Started
+
+To run this project locally, clone the repository and follow the steps below:
+
+### 🖥️ Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
