@@ -1,0 +1,12 @@
+backend/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/example/taskmanager/
+│               ├── controller/
+│               ├── model/
+│               ├── repository/
+│               ├── service/
+│               └── TaskManagerApplication.java
+├── pom.xml
+└── application.properties
